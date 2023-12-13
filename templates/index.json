@@ -1,0 +1,22 @@
+{
+  "sections": {
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Collection",
+        "featured_collection": "all",
+        "number_of_products_to_show": 4
+      }
+    },
+    "1659990278b52cf812": {
+      "type": "contact-form",
+      "settings": {
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "featured-collection",
+    "1659990278b52cf812"
+  ]
+}
